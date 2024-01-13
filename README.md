@@ -1,8 +1,8 @@
 ## 👋 Hey there! I'm Prince Gupta!
 - 🔭 I’m currently working as a **Full Stack Engineer**
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning about **AI**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/princegupta99) [Email](mailto:guptaprince223@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/princegupta99), [Email](mailto:guptaprince223@gmail.com)
 - 📍 Based in New Delhi, India
 
 #### 💻 Tech I Play With
