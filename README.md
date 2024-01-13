@@ -6,7 +6,7 @@
 - 📍 Based in New Delhi, India
 
 #### 💻 Tech I Play With
-- 🚀 **Backend:** Spring Boot, NodeJS, ExpressJS, PHP
 - 🌐 **Frontend:** Angular, ReactJS, NextJS, Vite
-- 🛠️ **Tools:** Rabbit-MQ, Redis, MySQL, MongoDB
+- 🚀 **Backend:** Spring Boot, FastAPI, ExpressJS, Rabbit-MQ, Redis
+- 🛠️ **DB:** MySQL, PostgresSQL, MongoDB
 - 📝 **Languages:** TypeScript, Java, Python, JavaScript, Dart
