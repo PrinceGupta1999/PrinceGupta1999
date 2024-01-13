@@ -8,5 +8,5 @@
 #### 💻 Tech I Play With
 - 🌐 **Frontend:** Angular, ReactJS, NextJS, Vite
 - 🚀 **Backend:** Spring Boot, FastAPI, ExpressJS, Rabbit-MQ, Redis
-- 🛠️ **DB:** MySQL, PostgresSQL, MongoDB
+- 💾 **DB:** MySQL, PostgresSQL, MongoDB
 - 📝 **Languages:** TypeScript, Java, Python, JavaScript, Dart
